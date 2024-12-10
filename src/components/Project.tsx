@@ -74,6 +74,11 @@ const Projects: React.FC = () => {
       imageUrl: "https://i.imgur.com/xRLKCSu.png",  // Ensure the image URL is high quality
       link: "https://github.com/aminerhayem123/healthcare"
     },
+    {
+      title: "Ecommerce Website Product Managment + Stock Managment React TS + node.js",
+      imageUrl: "https://i.imgur.com/W86UWeD.png",  // Ensure the image URL is high quality
+      link: "https://www.loom.com/share/714da630ee494ee9965f3ba8ad2ef606?sid=fb57f9d9-7b86-4340-8592-93a795e8ec1c"
+    },
   ];
 
   return (
